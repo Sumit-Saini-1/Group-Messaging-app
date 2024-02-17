@@ -1,0 +1,17 @@
+.msg{
+    list-style: none;
+    background-color: #f7fcf6;
+    width: fit-content;
+    max-width: 70%;
+    margin: 2px;
+    padding: 5px;
+}
+.time{
+    color: rgb(160, 154, 154);
+    margin-inline: 5px;
+    font-size: 10px;
+}
+.sender{
+    font-size: 0.7rem;
+    color: #0a869c;
+}

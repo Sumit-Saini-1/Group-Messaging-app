@@ -1,0 +1,14 @@
+.msg{
+    list-style: none;
+    background-color: #e2ffc7;
+    max-width: 70%;
+    align-self: flex-end;
+    margin: 2px;
+    padding: 5px;
+    word-wrap: break-word;
+}
+.time{
+    color: rgb(160, 154, 154);
+    margin-inline: 5px;
+    font-size: 10px;
+}

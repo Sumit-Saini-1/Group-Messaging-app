@@ -1,0 +1,17 @@
+.li{
+    list-style: none;
+    margin: 5px;
+    padding: 5px;
+    border-bottom: 1px solid gray;
+    cursor: pointer;
+    user-select: none;
+}
+.img{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+.span{
+    margin-left: 10px;
+    overflow: hidden;
+}

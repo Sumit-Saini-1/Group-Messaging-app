@@ -1,0 +1,7 @@
+.sendIcon{
+    font-size: 1.5rem;
+    color: teal;
+    margin-top: 5px;
+    cursor: pointer;
+    user-select: none;
+}
